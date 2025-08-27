@@ -1,0 +1,25 @@
+# Core scientific + data
+numpy
+pandas
+
+# Text preprocessing
+nltk
+
+# API calls
+requests
+
+# Environment variables
+python-dotenv
+
+# Document handling
+python-docx
+
+# Vector DB
+faiss-cpu
+
+# Optional: JSON / CSV pretty output
+ujson
+
+# Optional: Jupyter (if running in notebooks)
+jupyter
+streamlit
